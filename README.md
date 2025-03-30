@@ -96,7 +96,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="./ram.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>RAMNATH</h1>
+            <h1>Subaharini</h1>
             <p>student</p>
         </div>
     </header>
